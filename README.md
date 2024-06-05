@@ -92,4 +92,4 @@ System Programming Using C.
 
 #
 
-![](https://github.com/1999Shrikant/Customised_Virtual_File_System/blob/main/CVFS3.png)
+![](https://github.com/1999Shrikant/Customised-Virtual-File-System/blob/main/CVFS3.png)
