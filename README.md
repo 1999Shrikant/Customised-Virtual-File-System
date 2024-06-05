@@ -1,4 +1,3 @@
-# Customised-Virtual-File-System
 <div align="center">
     <h1>CUSTOMIZED VIRTUAL FILE SYSTEM</h1>
    </div>
@@ -10,21 +9,20 @@
     <br />
   <sup>Copyright (c) 2021 Shrikant Chobi</sup>
   
-  Licensed Under The  [MIT License](https://github.com/Prasad-Yeole/Student_Management_System/blob/main/LICENSE)
   
-  [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/Prasad-Yeole/Customised_Virtual_File_System/blob/main/LICENSE)
-  ![GitHub language count](https://img.shields.io/github/languages/count/Prasad-Yeole/Customised_Virtual_File_System?color=g&label=Languages)
+  [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/1999Shrikant/Customised_Virtual_File_System/blob/main/LICENSE)
+  ![GitHub language count](https://img.shields.io/github/languages/count/1999Shrikant/Customised_Virtual_File_System?color=g&label=Languages)
   ![Platforms](https://img.shields.io/badge/Platforms-Linux_Windows-yellowgreen?style=flat-square)
-  ![GitHub top language](https://img.shields.io/github/languages/top/Prasad-Yeole/Customised_Virtual_File_System?color=9cf)
-  ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Prasad-Yeole/Customised_Virtual_File_System)
-  ![GitHub repo size](https://img.shields.io/github/repo-size/Prasad-Yeole/Customised_Virtual_File_System)
-  ![Lines of code](https://img.shields.io/tokei/lines/github/Prasad-Yeole/Customised_Virtual_File_System?color=g&label=No%20Of%20Lines)
-  ![GitHub contributors](https://img.shields.io/github/contributors/Prasad-Yeole/Customised_Virtual_File_System?color=red)
-  ![GitHub User's stars](https://img.shields.io/github/stars/Prasad-Yeole?color=yellow)
-  ![GitHub branch checks state](https://img.shields.io/github/checks-status/Prasad-Yeole/Customised_Virtual_File_System/main?color=r)
-  ![GitHub all releases](https://img.shields.io/github/downloads/Prasad-Yeole/Test/total)
-  ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/Prasad-Yeole/Customised_Virtual_File_System?color=purple)
-  ![GitHub last commit](https://img.shields.io/github/last-commit/Prasad-Yeole/Customised_Virtual_File_System?color=yellow)
+  ![GitHub top language](https://img.shields.io/github/languages/top/1999Shrikant/Customised_Virtual_File_System?color=9cf)
+  ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/1999Shrikant/Customised_Virtual_File_System)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/1999Shrikant/Customised_Virtual_File_System)
+  ![Lines of code](https://img.shields.io/tokei/lines/github/1999Shrikant/Customised_Virtual_File_System?color=g&label=No%20Of%20Lines)
+  ![GitHub contributors](https://img.shields.io/github/contributors/1999Shrikant/Customised_Virtual_File_System?color=red)
+  ![GitHub User's stars](https://img.shields.io/github/stars/1999Shrikant?color=yellow)
+  ![GitHub branch checks state](https://img.shields.io/github/checks-status/1999Shrikant/Customised_Virtual_File_System/main?color=r)
+  ![GitHub all releases](https://img.shields.io/github/downloads/1999Shrikant/Test/total)
+  ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/1999Shrikant/Customised_Virtual_File_System?color=purple)
+  ![GitHub last commit](https://img.shields.io/github/last-commit/1999Shrikant/Customised_Virtual_File_System?color=yellow)
 
 </div>
 
